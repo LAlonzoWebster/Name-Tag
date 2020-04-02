@@ -21,7 +21,7 @@ h1 {
     list-style-position:inside;
     text-align: center;
     background-color: #ff3333;
-    margin: 3em auto;
+    margin: 1em auto;
     margin-top: 4%;
     width: 320px;
     color:  #fff;
@@ -30,7 +30,7 @@ h1 {
     letter-spacing: 0.4em;
     text-transform:capitalize;
     font-weight: 600;
-    -webkit-transform:rotate(-7deg);
+    
     }
   
 h2 {
@@ -43,7 +43,7 @@ h2 {
     display: block;
     letter-spacing: 0.4em;
     font-weight: 400;
-    -webkit-transform:rotate(-7deg);
+    
     }
   
 h3 {
@@ -58,7 +58,7 @@ h3 {
     font-weight: bold;
     padding: 0.6em 0;
     text-decoration: none;
-    -webkit-transform:rotate(-7deg);
+    
     
       }
 
@@ -68,7 +68,7 @@ h3 {
     color: #990000;
     background-color: #ff3333;
     font-size: 0.6em;
-    -webkit-transform:rotate(-7deg); 
+    
     
        
         }
