@@ -11,7 +11,7 @@ body {background:url(https://subtlepatterns.com/patterns/purty_wood.png) repeat;
 font-family: Helvetica, Ariel, sans-serif;
 }
 
-ul {
+h1 {
   margin: 3em auto;
   margin-top: 10%;
   width: 320px;
@@ -23,7 +23,7 @@ ul {
   // background: url( https://dl.dropbox.com/u/146103/cream_dust.png) repeat;
   -webkit-transform:rotate(-7deg);
   
-  li span {
+h2 span {
      font-size: 2.2em;
      display: block;
      letter-spacing: 0.4em;
@@ -31,7 +31,7 @@ ul {
      font-weight: 600;
     }
   
-  li {
+h3 {
     list-style: none;
     list-style-position:inside;
     text-align: center;
@@ -59,7 +59,7 @@ ul {
         }
       }
     
-    &.name {
+ h3   &.name {
       font-family: 'Waiting for the Sunrise', cursive;
       color: $text;
       font-size: 3em;
