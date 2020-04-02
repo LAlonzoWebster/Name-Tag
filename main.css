@@ -24,7 +24,7 @@ h1 {
     margin: 3em auto;
     margin-top: 4%;
     width: 320px;
-    font color: #fff;
+    color:  #fff;
     font-size: 2.2em;
     display: block;
     letter-spacing: 0.4em;
@@ -39,7 +39,7 @@ h2 {
     text-align: center;
     background-color: #ff3333; 
     font-size: 1.6em;
-    font color: #fff;
+    color: #fff;
     display: block;
     letter-spacing: 0.4em;
     font-weight: 400;
@@ -54,7 +54,7 @@ h3 {
     height: 1em;
     border-radius: 0 0 1em 1em;
     font-family: 'Waiting for the Sunrise', cursive;
-    font color: #333;
+    color: #333;
     font-size: 1.3em;
     font-weight: bold;
     padding: 1em 0;
@@ -66,7 +66,7 @@ h3 {
     
  h4    {
     text-align: center;
-    text color: #990000;
+    color: #990000;
     background-color: #ff3333;
     font-size: 0.6em;
     -webkit-transform:rotate(-7deg); 
