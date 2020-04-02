@@ -22,10 +22,10 @@ h1 {
     text-align: center;
     background-color: #ff3333;
     margin: 1em auto;
-    margin-top: 4%;
+    margin-top: 2%;
     width: 320px;
     color:  #fff;
-    font-size: 2.2em;
+    font-size: 3.2em;
     display: block;
     letter-spacing: 0.4em;
     text-transform:capitalize;
@@ -65,10 +65,10 @@ h3 {
     
  h4    {
     text-align: center;
-    color: #990000;
+    color: #00992e;
     background-color: #ff3333;
     font-size: 0.6em;
-    
+    word-spacing: 10px;
     
        
         }
