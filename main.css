@@ -11,16 +11,18 @@ body {
     background:url(https://subtlepatterns.com/patterns/purty_wood.png) repeat;
 font-family: Helvetica, Ariel, sans-serif;
 }
-
+section {
+    border: 1px solid;
+  box-shadow: rgba(black, 0.4) 0 2px 10px, inset rgba(black, 0.2) 0 0 50px;
+  border-radius: 1em;
+  padding: 0;
+}
 h1 {
   margin: 3em auto;
   margin-top: 10%;
   width: 320px;
-  // border: 1px solid;
-  box-shadow: rgba(black, 0.4) 0 2px 10px, inset rgba(black, 0.2) 0 0 50px;
-  border-radius: 1em;
-  padding: 0;
-  background-color: #fff;
+  // 
+  
   // background: url( https://dl.dropbox.com/u/146103/cream_dust.png) repeat;
   -webkit-transform:rotate(-7deg); 
 }
@@ -62,9 +64,10 @@ h3 {
       }
     }
     
- h3    {
+ h4    {
       font-family: 'Waiting for the Sunrise', cursive;
       color: $text;
+      background-color: #fff;
       font-size: 3em;
       padding: 0.3em 0;
       -webkit-transform:rotate(-7deg);
