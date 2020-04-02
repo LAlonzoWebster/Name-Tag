@@ -22,8 +22,9 @@ h1 {
     text-align: center;
     background-color: #ff3333;
     margin: 3em auto;
-    margin-top: 10%;
+    margin-top: 4%;
     width: 320px;
+    font color: #fff;
     font-size: 2.2em;
     display: block;
     letter-spacing: 0.4em;
@@ -38,6 +39,7 @@ h2 {
     text-align: center;
     background-color: #ff3333; 
     font-size: 1.6em;
+    font color: #fff;
     display: block;
     letter-spacing: 0.4em;
     font-weight: 400;
@@ -63,7 +65,7 @@ h3 {
 
     
  h4    {
-    
+    text-align: center;
     text color: #990000;
     background-color: #ff3333;
     font-size: 0.6em;
