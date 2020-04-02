@@ -1,5 +1,7 @@
 
 
+$white: #fff;
+$red: #f00;
 $red: rgba(254, 56, 56, 0.8);
 $text: rgba(41, 41, 41, 0.8);
 
@@ -36,7 +38,7 @@ h3 {
     list-style-position:inside;
     text-align: center;
     
-    &:first-child {
+     {
       background-color: $red;
       color: rgba(white, 1);
       border-radius: 1em 1em 0 0;
@@ -44,7 +46,7 @@ h3 {
       letter-spacing: 0.2em;
       }
       
-    &:last-child {
+    {
       background-color: $red; 
       height: 1em;
       border-radius: 0 0 1em 1em;
@@ -60,14 +62,14 @@ h3 {
       }
     }
     
- h3   &.name {
+ h3    {
       font-family: 'Waiting for the Sunrise', cursive;
       color: $text;
       font-size: 3em;
       padding: 0.3em 0;
       -webkit-transform:rotate(-7deg);
         
-      &:first-letter {
+       {
         font-size: 1.3em;    
         }
       }
