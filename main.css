@@ -52,12 +52,11 @@ h3 {
     text-align: center;
     background-color: #fff; 
     height: 1em;
-    border-radius: 0 0 1em 1em;
     font-family: 'Waiting for the Sunrise', cursive;
     color: #333;
-    font-size: 1.3em;
+    font-size: 3.3em;
     font-weight: bold;
-    padding: 1em 0;
+    padding: 0.6em 0;
     text-decoration: none;
     -webkit-transform:rotate(-7deg);
     
